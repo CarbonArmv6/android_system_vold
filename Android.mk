@@ -19,6 +19,7 @@ common_src_files := \
 	Devmapper.cpp \
 	ResponseCode.cpp \
 	Xwarp.cpp \
+	fstrim.c \
 	cryptfs.c
 
 common_c_includes := \
